@@ -1,2 +1,3 @@
-# Resume_hahow線上課程
-### Using html/css create a resume
+# Simple Resume Design
+### It is a coursework of the online web desing classes
+### Using html/css to create and design a simple resume
